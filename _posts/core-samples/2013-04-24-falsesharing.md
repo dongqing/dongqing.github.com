@@ -81,6 +81,11 @@ public final class FalseSharing
 
 {% endhighlight %}
 
+下面是伪共享的示意图： 
+
+![Alt text](/assets/pic/cache-line.png)
+
+
 在如下环境中测试。
 硬件： cpu : 2.4 GHz Intel Core i5
 	  内存  8 GB 1333 MHz DDR3
